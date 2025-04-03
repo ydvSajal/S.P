@@ -68,6 +68,12 @@ html {
   transform-origin: bottom left;
 }
 
+.DIS{
+  display: inline-block;
+  position: relative;
+  font-weight: 200;
+  font-size: 50px;
+}
 
 h1,
 h2,
