@@ -1,8 +1,7 @@
-# Portfolio_Template
+# Portfolio
+Portfolio-1
 
-Portfolio Website template for portfolio building workshop.
-
+https://ydvsajal.github.io/S.P/
 
 ## HTML CSS Resources
-
-[Nishant's Cheatsheet](https://nishantattrey07.github.io/)
+(https://nishantattrey07.github.io/)
