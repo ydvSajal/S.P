@@ -595,11 +595,93 @@ section {
   /* The header will change to a flex direction of column when the screen width is less than 600px. */
   header {
     flex-direction: column;
+    padding: 10px 0;
   }
 
   /* The about image will change to a width of 180px and will be aligned to the center when the screen width is less than 600px. */
   #about img {
     width: 180px;
     align-self: center;
+  }
+
+  body {
+    font-size: 1rem;
+    padding: 0 5px;
+  }
+
+  .port_heading {
+    font-size: 2.2rem;
+  }
+
+  nav a {
+    font-size: 1.1rem;
+    margin: 5px;
+    padding: 6px 10px;
+  }
+
+  section {
+    padding: 10px 0;
+  }
+
+  .DIS {
+    font-size: 1.5rem;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+  }
+
+  #about img.logo_syn {
+    max-width: 120px;
+  }
+
+  .skill-icons {
+    gap: 1rem;
+  }
+
+  .skill-icons i {
+    font-size: 1.5rem;
+    margin: 10px 5px;
+  }
+
+  .projects {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 10px 0;
+  }
+
+  .project {
+    width: 95vw;
+    min-width: unset;
+    margin: 0 auto 1rem auto;
+    padding: 10px;
+  }
+
+  #education, #contact {
+    padding: 10px;
+    margin: 1rem 0;
+    max-width: 98vw;
+  }
+
+  .contact-links a {
+    font-size: 1.2rem;
+    margin: 0 5px;
+    padding: 6px;
+  }
+
+  #back-to-top {
+    right: 10px;
+    bottom: 10px;
+    width: 40px;
+    height: 40px;
+    font-size: 1.2rem;
   }
 }
